@@ -1,3 +1,4 @@
+more or less command used to create this
 ```
 # tuesday july 5 2022
 # https://parceljs.org/recipes/react/
@@ -20,3 +21,4 @@ npx http-server --port=3000
 # error index.js:56 Uncaught ReferenceError: $32d89daef5eb73ec$import$5ace8e5c686fb130 is not defined
     at index.js:56:6
 ```
+
